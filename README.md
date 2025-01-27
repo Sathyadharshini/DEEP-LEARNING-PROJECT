@@ -18,3 +18,5 @@ This Python code is an end-to-end deep learning model for image classification w
 
 OUTPUT
 
+![Image](https://github.com/user-attachments/assets/42eecf5f-2611-4170-a84c-d4c02c489722)
+
